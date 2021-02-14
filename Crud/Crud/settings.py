@@ -28,7 +28,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'CrudApp',
     'bootstrap4',
-    'widget_tweaks',
 ]
 
 MIDDLEWARE = [
